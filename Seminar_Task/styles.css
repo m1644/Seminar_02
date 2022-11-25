@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(155, 211, 169);
+}
+
+h1 {
+    color: red;
+}
+
+.one {
+    color: yellow;
+}
+
+.two {
+    font-style: italic;
+    color: green;
+}
+
+.link {
+    background: red;
+}
+
+.img1 {
+    width: 400px;
+    height: auto;
+}
+
+.img2 {
+    width: 250px;
+    height: 300px;
+}
