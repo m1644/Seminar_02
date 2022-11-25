@@ -1,0 +1,50 @@
+html {
+	font-size: 20px;
+	font-family: 'Ubuntu', sans-serif; 
+	background-color: #000000;
+}
+
+body {
+	width: 900px;
+	margin: 0 auto;
+	padding: 20px 20px 20px 20px;
+	background-color: red;
+	border: 2px solid yellow;
+}
+
+.link {
+    background-color: yellow;
+    border: 2px solid black;
+}
+
+.container1 {
+    background-color: yellow;   
+}
+
+.container2 {
+    background-color: yellow;    
+}
+
+.logo1 {
+    width: 200px;
+    height: auto;
+    border: 2px solid black;
+}
+
+.img1 {
+    width: 400px;
+    height: auto;
+}
+
+.img2 {
+    width: 400px;
+    height: auto;
+}
+
+.one {
+    color: red;
+}
+
+.two {
+    color: red;
+}
